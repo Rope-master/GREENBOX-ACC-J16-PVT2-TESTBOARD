@@ -1,0 +1,98 @@
+Protel Design System Design Rule Check
+PCB File : D:\GreenBox\GREENBOX-ACC-J16-PVT2-TESTBOARD\GREENBOX-ACC-J16-PVT2-TESTBOARD\J16-TESTBOARD.PcbDoc
+Date     : 2018/7/2
+Time     : 14:45:03
+
+Processing Rule : Room S5 (Bounding Region = (6145mil, 5175mil, 6460mil, 5360mil) (InComponentClass('S5'))
+Rule Violations :0
+
+Processing Rule : Room S4 (Bounding Region = (6145mil, 4980mil, 6460mil, 5165mil) (InComponentClass('S4'))
+Rule Violations :0
+
+Processing Rule : Room S3 (Bounding Region = (6145mil, 4785mil, 6460mil, 4970mil) (InComponentClass('S3'))
+Rule Violations :0
+
+Processing Rule : Room S2 (Bounding Region = (6145mil, 4590mil, 6460mil, 4775mil) (InComponentClass('S2'))
+Rule Violations :0
+
+Processing Rule : Room S1 (Bounding Region = (5150mil, 4818.78mil, 5335mil, 5133.78mil) (InComponentClass('S1'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=6mil) (InComponent('U1')),(All)
+Rule Violations :0
+
+Processing Rule : Room Signal (Bounding Region = (5385mil, 4775mil, 5970mil, 5120mil) (InComponentClass('Signal'))
+Rule Violations :0
+
+Processing Rule : Room Relay (Bounding Region = (3340mil, 4096.89mil, 4845mil, 6191.89mil) (InComponentClass('Relay'))
+Rule Violations :0
+
+Processing Rule : Room Power (Bounding Region = (3385mil, 6780mil, 6795mil, 8345mil) (InComponentClass('Power'))
+Rule Violations :0
+
+Processing Rule : Room ORelay (Bounding Region = (5585mil, 4450mil, 5965mil, 4725mil) (InComponentClass('ORelay'))
+Rule Violations :0
+
+Processing Rule : Room Mcu (Bounding Region = (5010mil, 5360mil, 6070mil, 6215mil) (InComponentClass('Mcu'))
+Rule Violations :0
+
+Processing Rule : Room Led (Bounding Region = (6111.445mil, 3290mil, 7154.752mil, 3939.606mil) (InComponentClass('Led'))
+Rule Violations :0
+
+Processing Rule : Room C2 (Bounding Region = (6030mil, 6205mil, 6625mil, 6470mil) (InComponentClass('C2'))
+Rule Violations :0
+
+Processing Rule : Room C1 (Bounding Region = (6070mil, 5556.929mil, 6335mil, 6151.929mil) (InComponentClass('C1'))
+Rule Violations :0
+
+Processing Rule : Room Audio (Bounding Region = (4795mil, 2661.89mil, 5731.89mil, 4111.89mil) (InComponentClass('Audio'))
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (Disabled)(IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (Disabled)(All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=1000mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=3000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=9mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Room Top (Bounding Region = (2800mil, 4075mil, 7165mil, 8010mil) (InComponentClass('Top'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=15mil) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Room Sensor (Bounding Region = (2805mil, 3010mil, 4425mil, 4530mil) (InComponentClass('Sensor'))
+Rule Violations :0
+
+
+Violations Detected : 0
+Time Elapsed        : 00:00:01
